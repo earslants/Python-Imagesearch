@@ -12,4 +12,4 @@ That's it !!
 
 ## Make sure the zoom app is on the desktop before running
 
-# I am using the Turkish version of the application. Therefore, only the Turkish version of the pictures are available at the moment !!!
+## I am using the Turkish version of the application. Therefore, only the Turkish version of the pictures are available at the moment !!!
